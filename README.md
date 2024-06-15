@@ -37,7 +37,7 @@ Second year CSE student from [The Oxford College of Engineering](http://www.theo
  
 <tr>
 	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=postman,sass,tailwind&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=postman,websockets,sass,tailwind&theme=dark"></td>
 </tr>
 
 <tr>
