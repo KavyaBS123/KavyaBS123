@@ -8,7 +8,7 @@
 
 Second year CSE student from [The Oxford College of Engineering](http://www.theoxford.edu/).
 
-
+[![wakatime](https://wakatime.com/badge/user/52d0f35e-93d3-4abb-872c-bc9dcf140d61.svg)](https://wakatime.com/@52d0f35e-93d3-4abb-872c-bc9dcf140d61)
 - Frontend Development
 - Backend Development
 - Artificial Intelligence
