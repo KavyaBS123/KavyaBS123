@@ -1,6 +1,4 @@
-[![An image of @kavyabs123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavyabs123)](https://holopin.io/@kavyabs123)
-
-<img src="![image](https://github.com/user-attachments/assets/c53dffc7-7617-49b1-9515-ce366b328696)" width="500">
+![Sarthak S Kumar](https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3)
 
 
 <hr>
