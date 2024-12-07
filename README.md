@@ -1,5 +1,3 @@
-![Sarthak S Kumar](https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3)
-
 
 <hr>
 
