@@ -1,4 +1,4 @@
-![kavyabsalawadagi@gmail com (1)](https://github.com/user-attachments/assets/98f9e896-a927-4897-aa2f-de8ac32be67f)
+
 <hr>
 Hey there! I'm <a href = "www.linkedin.com/in/kavya-b-s">Kavya B S</a>. Welcome to my GitHub👋
 
