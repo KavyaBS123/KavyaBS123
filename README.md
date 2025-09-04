@@ -8,6 +8,7 @@
 - Frontend Development
 - Backend Development
 - Artificial Intelligence
+- Machine Learning
 - Data Structure and Algorithms: Java
 - Database Technologies
 
