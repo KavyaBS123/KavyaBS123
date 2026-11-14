@@ -7,7 +7,7 @@
 
 <p align="center">
   Software Engineer · Full Stack & Agentic AI<br/>
-  Currently at an early-stage startup
+  Currently working at an early-stage startup
 </p>
 
 <p align="center">
