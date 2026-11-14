@@ -1,4 +1,5 @@
-<img width="960" height="543" alt="github-banner-final" src="https://github.com/user-attachments/assets/8b30b976-cc0e-402c-8589-5ae7b90d3411" />
+<img width="800" height="453" alt="github-banner-final" src="https://github.com/user-attachments/assets/a9a83a8c-f113-44ce-89c1-86b608b9c98f" />
+
 <p align="center">
   <img src="./banner.gif" alt="Kavya B S — coding banner" width="100%" />
 </p>
